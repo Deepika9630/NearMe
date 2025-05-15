@@ -26,6 +26,7 @@ Execute the programs and publish them.
 
 ## CODE
 ```
+map.html
 <head>
     <title> My City</title>
 </head>
@@ -37,23 +38,67 @@ Execute the programs and publish them.
     <font color="blue"><b>Deepika.R(212224230054)</b></font>
     </h3>
     <center>
-    <img src="map.png" usemap="#MyCity" height="610" width="1450">
-    <map name="MyCity">
-    <area shape="circle" coords="700,250,850,400" href="home.html" title="My Home Town">
-    <area shape="circle" coords="570,230,45" href="school.html" title="My School">
-    <area shape="circle" coords="640,200,30" href="ground.html" title="Ground">
-    <area shape="circle" coords="1120,360,25" href="church.html" title="Church">
-    </center>
-    </map>
+        <img src="Screenshot 2025-04-24 203459.png" usemap="#image-map">
+        <map name="image-map">
+    <area target="" alt="TEMPLE" title="TEMPLE" href="temple.html" coords="803,503,964,553" shape="rect">
+    <area target="" alt="MURUGAN" title="MURUGAN" href="templemurugan .html" coords="309,634,402,699,472,653,394,585" shape="poly">
+    <area target="" alt="PARK" title="PARK" href="park.html" coords="899,361,64" shape="circle">
+    <area target="" alt="GREEN THUNDER" title="GREEN THUNDER" href="green.html" coords="442,344,670,357,567,260" shape="poly">
+</map>
+  </center>
 </body>
+
+temple.html
+<html>
+    <body bgcolor="orange">
+        <h1>THIRUVANNAMALAI</h1>
+        <h3> Arunachaleswarar Temple  </h3>
+<p>
+ The Annamalaiyar Temple or Arunachalesvara Temple or Tiruvannamalai Temple is a Hindu temple dedicated to the god Shiva and goddess Parvati. It is located at the base of Arunachala hill in the town of Tiruvannamalai in Tamil Nadu, India.
+</p>
+</body>
+</html>
+
+murugantemple.html
+<html>
+    <body bgcolor="cyan">
+        <h1>THIRUVANNAMALAI</h1>
+        <h3> MURUGAN Temple  </h3>
+<p>
+    The Vilvarani Murugan Temple, also known as Nakshatra Murugan Temple, is a significant Murugan temple located in Tiruvannamalai district, Tamil Nadu. It's situated on a hillock and is a popular pilgrimage site due to its unique, golden-colored idol of Lord Murugan. The temple is known for its powerful energy and is a place of worship for many devotees
+</p>
+   </body>
+</html>
+
+green.html
+<html>
+    <body bgcolour="blue">
+        <h1>THIEUVANNAMALAI</h1>
+        <h3>Greenland Ashram</h3>
+    <p>
+        Greenland Ashram in Tiruvannamalai is a well-known ashram in Tiruvannamalai HO, known for its peaceful atmosphere and as a place for meditation and self-realization. It's a popular spot for both locals and visitors, offering a space for spiritual growth and reflection. The ashram is located in a prominent area of Tiruvannamalai HO and is easily accessible by various modes of transport.
+   </p>
+    </body>
+</html>
+
+park.html
+<html>
+    <body bgcolor="pink">
+        <h1>THIRUVANNAMALAI</h1>
+        <h3>Imagica Fun World</h3>
+    <p>Imagica Fun World is a family-friendly amusement park located in Kurunji Nagar, Tiruvannamalai, Tamil Nadu. It offers a variety of water-based attractions suitable for all ages, making it a popular destination for locals and tourists alike</p>
+    </body>
+</html>
+   
 ```
 
 ## OUTPUT
-![Screenshot 2025-04-25 111336](https://github.com/user-attachments/assets/95430e95-4f0d-4ac5-bbaf-a3d323a37c47)
-![Screenshot 2024-04-10 144520](https://github.com/rakshithaprakashkumar11/NearMe/assets/150994181/184dc4c9-f3a9-475e-9adc-2d1ce6a5ee6e)
-![Screenshot 2024-04-10 144341](https://github.com/rakshithaprakashkumar11/NearMe/assets/150994181/e9637689-d1b0-473e-aa71-e554e78fe3c5)
-![Screenshot 2024-04-10 144022](https://github.com/rakshithaprakashkumar11/NearMe/assets/150994181/55c15930-6b0a-4388-80d3-ece2a2a20274)
-![Screenshot 2024-04-10 144246](https://github.com/rakshithaprakashkumar11/NearMe/assets/150994181/93789857-04e4-4929-9f36-677e44c7b942)
+![Screenshot 2025-05-15 200155](https://github.com/user-attachments/assets/059a5240-7b1a-4af1-834b-b29184b58c5e)
+![Screenshot 2025-05-15 201431](https://github.com/user-attachments/assets/59ad4b86-27b4-49a5-8660-03cd81d0db3e)
+![Screenshot 2025-05-15 200829](https://github.com/user-attachments/assets/9da3043f-dfc4-464e-944d-9497b6077abb)
+![Screenshot 2025-05-15 201147](https://github.com/user-attachments/assets/5f2d49ab-93a2-4c98-8027-2019ffb87e34)
+![Screenshot 2025-05-15 201323](https://github.com/user-attachments/assets/e821f753-31f5-4895-80c1-dd71387ce002)
+
 
 
 
